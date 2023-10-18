@@ -1,5 +1,0 @@
-list1=[1,2,3,4]
-#EXPECTED OUTPUT IS 1,4,9,16
-
-for i in list1:
-print (i**2,end=" ")
